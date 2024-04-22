@@ -25,8 +25,8 @@ Check the equality.
 
 # PROGRAM:
 
-Name : Shyam Kumar A
-Reg no: 212221230098
+### Name : Shyam Kumar A
+### Reg no: 212221230098
 
 ```c#
 using System;
